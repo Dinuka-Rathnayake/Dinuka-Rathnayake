@@ -7,7 +7,7 @@
  -->
 - 🔭 I’m currently working on **Mobile-Store-Management-System**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Kotlin, Java**
 
