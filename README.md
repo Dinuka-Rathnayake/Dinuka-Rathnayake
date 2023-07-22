@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Kotlin, Java**
 
-- 📫 How to reach me **dinukarathnayaka2000@gmail.com**
+- 📫 How to reach me **<a href="https://dinuka-rathnayake.github.io/portfolio/#/contact">click me</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
