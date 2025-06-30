@@ -1,15 +1,15 @@
 [![MasterHead](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Dinuka Rathnayaka</h1>
-<h3 align="center">A Full Stack developer from Sri Lanka</h3>
+<h3 align="center">A tech Enthusiast</h3>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
  -->
-- 🔭 I’m currently working on **Mobile-Store-Management-System**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Fine-tune LLMs**
 
-- 💬 Ask me about **Kotlin, Java**
+- 💬 Ask me about **Python, Java**
 
 - 📫 How to reach me **<a href="https://dinuka-rathnayake.github.io/portfolio/#/contact">click me</a>**
 
